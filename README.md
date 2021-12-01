@@ -18,9 +18,9 @@ Execute the program fff
 <html>
 
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Vishranthi A </h1>
+<h2>Reg no: 21003066 </h2>
+<h3>Dept.: Artificial Intelligence and Data Science</h3>
 </body>
 
 </html>
@@ -28,8 +28,8 @@ Execute the program fff
 # OUPUT
 <html>
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: Vishranthi A </h1>
+<h2>Reg no: 21003066 </h2>
+<h3>Dept.: Artificial Intelligence and Data Science</h3>
 </body>
 </html>
