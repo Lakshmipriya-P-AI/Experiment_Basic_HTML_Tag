@@ -5,13 +5,13 @@ To Write a html webpage using heading, paragraph and list tags.
 
 # ALGORITHM
 ### STEP 1
-create a simple html page using heading tag
+create a simple html page using heading tag.
 ### STEP 2
-Add a paragragh tag to the program
+Add a paragragh tag to the program.
 ### STEP 3
-Execute the program
+Execute the program.
 ### STEP 4
-Stop the program
+Stop the program.
 
 # CODE
 ~~~
