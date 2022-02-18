@@ -23,8 +23,8 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Name: Vishranthi A</h1>
-<h2>Reg no.: 21003066</h2>
+<h1>Name: lakshmi priya P</h1>
+<h2>Reg no.: 21001411</h2>
 <h3>Dept.: Artificial Intelligence and Data Science</h3>
 </body>
 </html>
@@ -43,7 +43,7 @@ httpd.serve_forever()
 ~~~
 # OUPUT
 
-![GitHub Logo](web.jpg)
+![GitHub Logo](web.PNG)
 
 # RESULT
 
